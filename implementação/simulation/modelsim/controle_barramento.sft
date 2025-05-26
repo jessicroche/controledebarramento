@@ -1,0 +1,5 @@
+set tool_name "ModelSim-Altera (VHDL)"
+set corner_file_list {
+	{{"Slow Model"} {controle_barramento.vho controle_barramento_vhd.sdo}}
+	{{"Fast Model"} {controle_barramento_fast.vho controle_barramento_vhd_fast.sdo}}
+}

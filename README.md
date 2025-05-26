@@ -1,7 +1,11 @@
 # Informações sobre o projeto
+
 IES: UNIVERSIDADE FEDERAL DA FRONTEIRA SUL (UFFS)
+
 CURSO DE CIÊNCIA DA COMPUTAÇÃO
+
 CCR: SISTEMAS DIGITAIS
+
 Docentes: Jessica Brito da Silva e Arthur Emanuel da Silva.
 
 Atividade proposta:

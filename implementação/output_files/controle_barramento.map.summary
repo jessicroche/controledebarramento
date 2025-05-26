@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri May 23 16:58:49 2025
+Quartus II 64-Bit Version : 13.0.0 Build 156 04/24/2013 SJ Web Edition
+Revision Name : controle_barramento
+Top-level Entity Name : controle_barramento
+Family : Cyclone II
+Total logic elements : 16
+    Total combinational functions : 16
+    Dedicated logic registers : 5
+Total registers : 5
+Total pins : 24
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
